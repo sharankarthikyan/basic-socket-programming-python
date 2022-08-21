@@ -1,3 +1,5 @@
+# Simple TCP socket connection
+
 import argparse
 import socket
 

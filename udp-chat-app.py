@@ -1,3 +1,5 @@
+# Chat app using UDP sockets.
+
 import argparse
 import socket
 
